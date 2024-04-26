@@ -51,6 +51,7 @@ Customized error responses to provide meaningful error messages and appropriate 
 Conducted comprehensive unit tests using JUnit and Mockito to verify core business logic, RESTful endpoints, and error handling.
 
 
+I am really bad in writing READ.Me's so if you read until here with bad alignment and no spaces kudos))
 If you are curious and wanna review the code yourself feel free
 I am always open to learn from others and grow more 
 Thank you :)
